@@ -48,8 +48,8 @@ DoorDash being a marketplace, we have information on the state of marketplace wh
 
 We have predictions from other models for various stages of delivery process that we can use:
 
-estimated_order_place_duration: Estimated time for the restaurant to receive the order from DoorDash (in seconds)
-estimated_store_to_consumer_driving_duration: Estimated travel time between store and consumer (in seconds)
++ estimated_order_place_duration: Estimated time for the restaurant to receive the order from DoorDash (in seconds)
++ estimated_store_to_consumer_driving_duration: Estimated travel time between store and consumer (in seconds)
 
 
 ## Practicalities
